@@ -27,7 +27,7 @@ a list of resources for fabric modders.
 
    getting started tutorial for the version 1.21
 
--[Our Website](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion)
+- [Our Website](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion)
 
 
 ## MISCELLANEOUS
@@ -40,10 +40,10 @@ Things that help for modding in generall
 
 - [Data Generators](https://misode.github.io)
     Generate data hassle free. These include:
-  *Loot Tables
-  *Advancements
-  *Worldgen
-  *And many, many more
+*Loot Tables
+*Advancements
+*Worldgen
+*And many, many more
 
 
 # Learn Java
