@@ -39,10 +39,11 @@ Things that help for modding in generall
     Obtain assets from the game
 
 - [Data Generators](https://misode.github.io)
-    Generate data hassle free. These include: *Loot Tables
-                                              *Advancements
-                                              *Worldgen
-                                              *And many, many more
+    Generate data hassle free. These include:
+  *Loot Tables
+  *Advancements
+  *Worldgen
+  *And many, many more
 
 
 # Learn Java
