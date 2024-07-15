@@ -8,26 +8,47 @@ a list of resources for fabric modders.
 
 
 - vanilla code
-
     just read the vanilla code, chances are what you want to create already exists in-game.
+
+- [Fabric Wiki](https://docs.fabricmc.net/develop/)
+  Fabric's official developer wiki
 
 - [Mod Template Generator](https://fabricmc.net/develop/template/)
   Fabric's official template generator. Creates an empty mod that is ready to run almost instantly.
 
 - [McJTY's knowledgebase](https://www.mcjty.eu/docs/intro)
-
     a wiki containing tutorials and information to get started
 
+# Youtube Resources
 
 - [Kaupenjoe's tutorial playlist](https://www.youtube.com/watch?v=0Pr_iHlVKsI&list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ&pp=iAQB)
 
-    getting started playlist for the version 1.20
-	
-- [Turty Wurty's tutorial playlist](https://www.youtube.com/watch?v=W7JFbcQzCA4&list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy&pp=iAQB) 
+    Getting started playlist for the following versions. These are the main ones, for 1.18 KaupenJoe has multiple playlists on that.
+
+	<details>
+	<summary>1.20.x</summary>
+	<br>
+	https://www.youtube.com/watch?v=0Pr_iHlVKsI&list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ&pp=iAQB
+	</details>
+  
+
+	<details>
+	<summary>1.19.3</summary>
+	<br>
+	https://www.youtube.com/watch?v=Y05DNiXfru0&list=PLKGarocXCE1EMYzuBUTYjHnFeBrRFbesk&pp=iAQB
+	</details>
+
+	<details>
+	<summary>1.19</summary>
+	<br>
+	https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_&pp=iAQB
+	</details>
+
+
+	- [Turty Wurty's tutorial playlist](https://www.youtube.com/watch?v=W7JFbcQzCA4&list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy&pp=iAQB) 
 
    getting started tutorial for the version 1.21
 
-- [Our Website](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion)
 
 
 ## MISCELLANEOUS
@@ -40,10 +61,14 @@ Things that help for modding in generall
 
 - [Data Generators](https://misode.github.io)
     Generate data hassle free. These include:
-*Loot Tables
-*Advancements
-*Worldgen
-*And many, many more
+  
+	-Loot Tables
+  
+  	-Advancements
+  
+ 	-Worldgen
+  
+  	-And many, many more
 
 
 # Learn Java
