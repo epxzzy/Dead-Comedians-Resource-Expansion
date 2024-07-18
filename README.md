@@ -122,6 +122,6 @@ Java knowledge is a must have. While there are many resources, Iwill list here s
 
 
 # *Credit to doctor4t's server
-## Credit to eppxzy for help with repo, Diemant for 2/4 mixin tutorials and providing the doctor4t recomandations
+## Credit to epxzzy for help with repo, Diemant for 2/4 mixin tutorials and providing the doctor4t recomandations
 
 
