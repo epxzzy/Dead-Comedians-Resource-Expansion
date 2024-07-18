@@ -17,9 +17,24 @@ a list of resources for fabric modders.
   Fabric's official template generator. Creates an empty mod that is ready to run almost instantly.
 
 - [McJTY's knowledgebase](https://www.mcjty.eu/docs/intro)
-    a wiki containing tutorials and information to get started
+    a wiki containing tutorials and information to get started.
+
+
 
 # Youtube Resources
+
+- [Mixins part 1](https://youtu.be/HQUkWjMWTik?si=Imrb210v_6h3R1YT)
+    While mixins are more advanced it is important to understand them.
+
+- [Mixins part 2(cheatsheet)](https://github.com/2xsaiko/mixin-cheatsheet)
+    Another resource for mixins.
+
+- [Mixin part 3(Kaupenjoe)](https://www.youtube.com/watch?v=U7j4bl_UAII)
+     Kaupenjoe's tutorial on mixins, while on an older version it does help with understanding basics
+
+- [Mixin part 4](https://github.com/SpongePowered/Mixin/wiki)
+     Official mixin wiki ... why is this not the first one?
+
 
 - [Kaupenjoe's tutorial playlist](https://www.youtube.com/watch?v=0Pr_iHlVKsI&list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ&pp=iAQB)
 
@@ -45,11 +60,20 @@ a list of resources for fabric modders.
 	</details>
 
 
-	- [Turty Wurty's tutorial playlist](https://www.youtube.com/watch?v=W7JFbcQzCA4&list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy&pp=iAQB) 
+  - [Turty Wurty's tutorial playlist](https://www.youtube.com/watch?v=W7JFbcQzCA4&list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy&pp=iAQB) 
+        getting started tutorial for the version 1.21
 
-   getting started tutorial for the version 1.21
+# Discord Servers
+
+- [Fabric Project, official server]()
+     Official fabric server, usually active.
 
 
+- [Kaupenjoe's Server](https://discord.gg/kaupenjoe)
+     They can help with more specific problems, pretty great people
+
+- [Modded Mincraft Server](https://discord.gg/moddedmc)
+      Again specific problems, usually active also can help with various modloaders
 
 ## MISCELLANEOUS
 
@@ -82,5 +106,22 @@ Java knowledge is a must have. While there are many resources, Iwill list here s
 
 - [FreeCodeCamp](https://www.freecodecamp.org/news/learn-java-free-java-courses-for-beginners/)
    FreeCodeCamp is  a non-profit organizaation that allows you to learnmany coding languages, pretty great in general
+
+- [JetBrains Academy (free online course*)](https://www.jetbrains.com/academy)
+
+- [Codeacademy (free online course)*](https://www.codecademy.com/learn/learn-java)
+
+- [University of Helsinki (free online course)*](https://java-programming.mooc.fi/)
+
+- [Basic Java Tutorials*](https://docs.oracle.com/javase/tutorial)
+
+- [Intorduction to Programming using Java by David J. Eck (free online textbook)*](http://math.hws.edu/javanotes)
+
+
+
+
+
+# *Credit to doctor4t's server
+## Credit to eppxzy for help with repo, Diemant for 2/4 mixin tutorials and providing the doctor4t recomandations
 
 
