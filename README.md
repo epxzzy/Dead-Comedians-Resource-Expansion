@@ -23,7 +23,7 @@ a list of resources for fabric modders.
     some times people on discord or people who help use other mappings, or modloaders this website allows you to translate them
 
 
-# Youtube Resources
+### Youtube Resources
 
 - [Mixins part 1](https://youtu.be/HQUkWjMWTik?si=Imrb210v_6h3R1YT)
     While mixins are more advanced it is important to understand them.
@@ -65,7 +65,7 @@ a list of resources for fabric modders.
   - [Turty Wurty's tutorial playlist](https://www.youtube.com/watch?v=W7JFbcQzCA4&list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy&pp=iAQB) 
         getting started tutorial for the version 1.21
 
-# Discord Servers
+### Discord Servers
 
 - [Fabric Project, official server]()
      Official fabric server, usually active.
@@ -88,16 +88,16 @@ Things that help for modding in generall
 - [Data Generators](https://misode.github.io)
     Generate data hassle free. These include:
   
-	-Loot Tables
+	- Loot Tables
   
-  	-Advancements
+  	- Advancements
+    
+ 	- Worldgen
   
- 	-Worldgen
-  
-  	-And many, many more
+  	- And many, many more
 
 
-# Learn Java
+### Learn Java
 Java knowledge is a must have. While there are many resources, Iwill list here some of the ones I found usefull
 
 - [KaupenJoe's Java series](https://www.youtube.com/watch?v=G1ifRRtJm7w&list=PLKGarocXCE1Egp6soRNlflWJWc44sau40&pp=iAQB)
