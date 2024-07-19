@@ -19,6 +19,8 @@ a list of resources for fabric modders.
 - [McJTY's knowledgebase](https://www.mcjty.eu/docs/intro)
     a wiki containing tutorials and information to get started.
 
+- [Linkie](https://linkie.shedaniel.dev/mappings?namespace=mojang_srg&version=1.20.1&search=addAdditionalSaveData&translateMode=ns&translateAs=yarn)
+    some times people on discord or people who help use other mappings, or modloaders this website allows you to translate them
 
 
 # Youtube Resources
