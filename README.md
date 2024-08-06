@@ -67,7 +67,7 @@ a list of resources for fabric modders.
 
 ### Discord Servers
 
-- [Fabric Project, official server]()
+- [Fabric Project, official server](https://discord.gg/v6v4pMv)
      Official fabric server, usually active.
 
 
