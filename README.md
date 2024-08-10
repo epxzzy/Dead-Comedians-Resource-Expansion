@@ -93,7 +93,9 @@ Things that help for modding in generall
   	- Advancements
     
  	- Worldgen
-        - And many, many more
+ 
+  - And many, many more
+    
 
 
 ### Learn Java
