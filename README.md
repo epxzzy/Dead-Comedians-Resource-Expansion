@@ -1,69 +1,58 @@
 # Dead-Comedians-Resource-Expansion
 
-a curated list of resources provided by dead comedian himself
+a curated list of resources provided by the dead comedian himself
 
 ## FABRIC
 
 a list of resources for fabric modders.
 
 
-- vanilla code
-    just read the vanilla code, chances are what you want to create already exists in-game.
+- vanilla code:
+	just read the vanilla code, chances are what you want to create already exists in-game.
 
-- [Fabric Wiki](https://docs.fabricmc.net/develop/)
-  Fabric's official developer wiki
+- [Fabric Wiki](https://docs.fabricmc.net/develop/):
+  	Fabric's official developer wiki.
 
-- [Mod Template Generator](https://fabricmc.net/develop/template/)
-  Fabric's official template generator. Creates an empty mod that is ready to run almost instantly.
+- [Mod Template Generator](https://fabricmc.net/develop/template/):
+  	Fabric's official template generator. Creates an empty mod that is ready to run almost instantly.
 
-- [McJTY's knowledgebase](https://www.mcjty.eu/docs/intro)
-    a wiki containing tutorials and information to get started.
+- [McJTY's knowledgebase](https://www.mcjty.eu/docs/intro):
+  	a wiki containing tutorials and information to get started.
 
-- [Linkie](https://linkie.shedaniel.dev/mappings?namespace=mojang_srg&version=1.20.1&search=addAdditionalSaveData&translateMode=ns&translateAs=yarn)
-    some times people on discord or people who help use other mappings, or modloaders this website allows you to translate them
+- [Linkie](https://linkie.shedaniel.dev/mappings?namespace=mojang_srg&version=1.20.1&search=addAdditionalSaveData&translateMode=ns&translateAs=yarn):
+  	modloader mappings translator.
 
 
 ### Youtube Resources
 
-- [Mixins part 1](https://youtu.be/HQUkWjMWTik?si=Imrb210v_6h3R1YT)
+- [Turty Wurty's tutorial playlist](https://www.youtube.com/playlist?list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy):
+        getting started tutorial for fabric 1.21
+
+- Kaupenjoe's tutorial playlist:
+	<details>
+  		<summary>versions</summary>
+		<ul>
+  			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ">1.20.X fabric</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EMYzuBUTYjHnFeBrRFbesk">1.19.3 fabric</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_">1.19 fabric</a></li>
+			<li>And for 1.18, KaupenJoe has multiple playlists on <a href="https://www.youtube.com/@ModdingByKaupenjoe/playlists">his channel</a></li>
+		</ul>
+  
+  	</details>
+	
+
+- [Mixins part 1](https://youtu.be/HQUkWjMWTik?si=Imrb210v_6h3R1YT):
     While mixins are more advanced it is important to understand them.
 
-- [Mixins part 2(cheatsheet)](https://github.com/2xsaiko/mixin-cheatsheet)
+- [Mixins part 2(cheatsheet)](https://github.com/2xsaiko/mixin-cheatsheet):
     Another resource for mixins.
 
-- [Mixin part 3(Kaupenjoe)](https://www.youtube.com/watch?v=U7j4bl_UAII)
+- [Mixin part 3(Kaupenjoe)](https://www.youtube.com/watch?v=U7j4bl_UAII):
      Kaupenjoe's tutorial on mixins, while on an older version it does help with understanding basics
 
-- [Mixin part 4](https://github.com/SpongePowered/Mixin/wiki)
+- [Mixin part 4](https://github.com/SpongePowered/Mixin/wiki):
      Official mixin wiki ... why is this not the first one?
 
-
-- [Kaupenjoe's tutorial playlist](https://www.youtube.com/watch?v=0Pr_iHlVKsI&list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ&pp=iAQB)
-
-    Getting started playlist for the following versions. These are the main ones, for 1.18 KaupenJoe has multiple playlists on that.
-
-	<details>
-	<summary>1.20.x</summary>
-	<br>
-	https://www.youtube.com/watch?v=0Pr_iHlVKsI&list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ&pp=iAQB
-	</details>
-  
-
-	<details>
-	<summary>1.19.3</summary>
-	<br>
-	https://www.youtube.com/watch?v=Y05DNiXfru0&list=PLKGarocXCE1EMYzuBUTYjHnFeBrRFbesk&pp=iAQB
-	</details>
-
-	<details>
-	<summary>1.19</summary>
-	<br>
-	https://www.youtube.com/watch?v=RSqSZoJQXvg&list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_&pp=iAQB
-	</details>
-
-
-  - [Turty Wurty's tutorial playlist](https://www.youtube.com/watch?v=W7JFbcQzCA4&list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy&pp=iAQB) 
-        getting started tutorial for the version 1.21
 
 ### Discord Servers
 
@@ -87,14 +76,10 @@ Things that help for modding in generall
 
 - [Data Generators](https://misode.github.io)
     Generate data hassle free. These include:
-  
 	- Loot Tables
-  
   	- Advancements
-    
- 	- Worldgen
- 
-  - And many, many more
+	- Worldgen
+	- And many, many more
     
 
 
