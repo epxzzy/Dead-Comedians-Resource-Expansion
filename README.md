@@ -6,13 +6,20 @@ a curated list of resources provided by the dead comedian himself
  - <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Learning_java">Java programming language</a>
 
 
+## NEOFORGE
+- [NeoForge Wiki](https://docs.neoforged.net/docs/gettingstarted/)
+  	This will take you through all the steps to starting modding. Even generating the project.
+  
+- [Kaupenjoe's Tutorials, NeoForge 1.21.X](https://www.youtube.com/watch?v=yG-oJPR_40w&list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF)
+
+
 ## FABRIC
 
 a list of resources for fabric modders.
 
 
 - vanilla code:
-	just read the vanilla code, chances are what you want to create already exists in-game.
+	Just read the vanilla code, chances are what you want to create already exists in-game.
 
 - [Fabric Wiki](https://docs.fabricmc.net/develop/):
   	Fabric's official developer wiki.
