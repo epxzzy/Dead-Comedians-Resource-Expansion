@@ -14,6 +14,10 @@ a list of resources for NeoForge modders.
 
 - [McJTY's tutorials, NeoForge 1.20.4](https://www.mcjty.eu/docs/1.20.4_neo/)
 
+### Discord Resources
+
+- [Official NeoForge Discord](https://discord.gg/neoforged)
+
 ### Youtube Resources
 
 - [Kaupenjoe's Tutorials, NeoForge 1.21.X](https://www.youtube.com/watch?v=yG-oJPR_40w&list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF)
