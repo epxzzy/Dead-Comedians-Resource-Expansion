@@ -30,6 +30,8 @@ a list of resources for Forge modders.
 
 - [Forge Community wiki](https://forge.gemwire.uk/wiki/Main_Page)
 
+- [moddingtutorials.org](https://moddingtutorials.org/)
+
 - [McJTY's knowledgebase](https://www.mcjty.eu/docs/intro):
   	a wiki containing tutorials and information to get started.
 
