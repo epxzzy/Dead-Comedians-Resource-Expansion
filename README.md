@@ -124,7 +124,7 @@ Resources for ALL modders and things that help for modding in general
 - [Linkie](https://linkie.shedaniel.dev/mappings?namespace=mojang_srg&version=1.20.1&search=addAdditionalSaveData&translateMode=ns&translateAs=yarn):
   	modloader mappings translator.
   
-- [Mc Assets](https://mcasset.cloud/1.20.1/)
+- [Mc Assets](https://mcasset.cloud/latest/)
     Obtain assets from the game
 
 - [Data Generators](https://misode.github.io)
