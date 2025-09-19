@@ -1,4 +1,4 @@
-# Dead-Comedians-Resource-Expansion
+
 
 ## INTRODUCTION
 Hello there! If you're here it means you wanna learn modding, and presumably don't know where to start.
