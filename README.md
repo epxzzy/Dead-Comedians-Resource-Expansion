@@ -13,8 +13,8 @@ So what do you need to start modding? Simple : a computer and java knowledge. Si
 
 #### IMPORTANT NOTE
 	 From here on out I will be mentioning various links and what they are for. If however you have read this already and just 
- 	want the links you can find a condensed list of them here (LINK REFERENCING SEPARATE PAGE TO BE ADDED LATER)
-
+ 	want the links you can find a condensed list of them right below
+ <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Learning_java">Compiled Resource list</a>
 
 
 ### Learning Java
@@ -23,7 +23,7 @@ So what do you need to start modding? Simple : a computer and java knowledge. Si
 
 #### IMPORTANT NOTE
 	 While it is easy to think that you can just skip learning Java, as many have did. 
-	 More often than not you will find yourself in a lot of trouble, not knowing what is going on in front of you especially if you have 
+	 More often than not you will find yourself in a lot of trouble, not knowing what is going on in front of you especially if you have
   	no prior coding experience. 
 	 A solid understanding of the language also allows for you to create more optimised code and be able to both evolve faster on 
  	your journey and get into more difficult topics with a lot more ease. 
@@ -77,56 +77,48 @@ Versions:
  	you can mod whatever version you wish, I just present you the ones that are used more often, aka that YOU and OTHERS will download 
     more often, and usually have more documentation as a result of that!
 
+#### IMPORTANT NOTE
+
+ 	No matter the modloader you are using make sure you look at vanilla code, most of the time you can find something similar to what 
+  	you need in game. You can also look at other people's code, while obviously 
+   		A. understanding what the code does and how it works, not just copy pasting,
+	 and 
+  		B. respecting the license of the repository
 
 
+### Neoforge
+ Great so you chose Neoforge as your modloader of choice. Your main friend's will be:
 
-
-
-
-
-
-
-
-
-
-//old
-
-
-
-
-
-
-## NEOFORGE
-a list of resources for NeoForge modders.
-
-- [NeoForge Wiki](https://docs.neoforged.net/docs/gettingstarted/)
-  	This will take you through all the steps to starting modding. Even generating the project.
-
+- [The NeoForge Wiki](https://docs.neoforged.net/docs/gettingstarted/)
+  	The official Neoforge Documentation. This will take you through all the steps to starting modding. Even generating the project. And a lot more, however it only covers SOME topics. Also covers pretty much every version of Minecraft Neo works on.
+  
 - [McJTY's tutorials, NeoForge 1.20.4](https://www.mcjty.eu/docs/1.20.4_neo/)
+  While not as in depth, may have some content the NeoForge Wiki, for example some pretty competent explanations of render code at a begginer level. Only for 1.20.4 however. (Concepts usually transfer however so, while code can't just be copy pasting , you should still learn a thing or two from it)
 
-### Discord Resources
+ - [Kaupenjoe's Tutorials, NeoForge 1.21.X](https://www.youtube.com/watch?v=yG-oJPR_40w&list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF)
+   You will notice KaupenJoe is a recurring reference here, that is for a good reason: He is one of the best and only Minecraft modding edutainers on Youtube. This playlist covers multiple versions starting with 1.21.1 and going up.
 
-- [Official NeoForge Discord](https://discord.gg/neoforged)
+ - [Official NeoForge Discord](https://discord.gg/neoforged)
+	Not much to say, if you need help understanding anything, the folks over there should be able to help. I find this server particularly helpful myself.
 
-### Youtube Resources
+ - Anything else mentioned in the **MISCELLANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
+   
 
-- [Kaupenjoe's Tutorials, NeoForge 1.21.X](https://www.youtube.com/watch?v=yG-oJPR_40w&list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF)
-
-
-## FORGE
-a list of resources for Forge modders.
+### Forge
+Since the Forge modloader has existed for longer, there's more resources you can go for:
 
 - [Forge wiki](https://docs.minecraftforge.net/en/1.21.x/)
-
+  Official documentation for Forge, includes versions : 1.19.x, 1.20.1, 1.20.x , 1.21.x and even a bit about ForgeGradle for the advanced and interested!
+  
 - [Forge Community wiki](https://forge.gemwire.uk/wiki/Main_Page)
+  Documentation mantained by the community, meaning anyone can contribute to it, a bit more extensive than the official doc, but only for versions 1.16, 1.17, 1.18 and 1.19.
 
 - [moddingtutorials.org](https://moddingtutorials.org/)
+  While only being used for obscure versions, 1.16.5, 1.18.2, 1.19.2, and 1.19.3. I'm placing this here for academic honesty and who knows maybe someone may need it, so its here.
+
 
 - [McJTY's knowledgebase](https://www.mcjty.eu/docs/intro):
-  	a wiki containing tutorials and information to get started.
-
-  
-### Youtube Resources
+  Same as above, it's not the best, not the worst, but may have useful info. It also covers versions 1.12, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.19.3, 1.20.
 
 - Kaupenjoe's tutorial playlist:
 	<details>
@@ -141,15 +133,17 @@ a list of resources for Forge modders.
   
   	</details>
 
-- [Cy4's tutorial playlist (1.16) ](https://www.youtube.com/watch?v=benUZaQU-6Y&list=PLlbkaeFHn13HQlW5Pb7Gf-xLJoAlfVbNU)
-	he uses eclipse smh
- 
-- [Cy4's tutorial playlist (1.18) ](https://www.youtube.com/watch?v=xRXWa5HRAxU&list=PLlbkaeFHn13Hw_Y-Rs2TgBYlpS2RQ5uEA)
-	he uses eclipse smh
+  - [Cy4's tutorial playlist (1.16) ](https://www.youtube.com/watch?v=benUZaQU-6Y&list=PLlbkaeFHn13HQlW5Pb7Gf-xLJoAlfVbNU)
+	In my honest opinion he uses pretty bad coding conventions(or at least did when I last checked) and uses Eclipse as an IDE (Intellij being what most use as it is best for this), but I'm putting this here for academic honesty.
 
-## FABRIC
+  - [Cy4's tutorial playlist (1.18) ](https://www.youtube.com/watch?v=xRXWa5HRAxU&list=PLlbkaeFHn13Hw_Y-Rs2TgBYlpS2RQ5uEA)
+	Same as above
 
-a list of resources for Fabric modders.
+ - Anything else mentioned in the **MISCELLANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
+
+
+### Fabric
+If you choose Fabric then you should look at:
 
 - [Fabric Wiki](https://docs.fabricmc.net/develop/):
   	Fabric's official developer wiki.
@@ -157,43 +151,38 @@ a list of resources for Fabric modders.
 - [Mod Template Generator](https://fabricmc.net/develop/template/):
   	Fabric's official template generator. Creates an empty mod that is ready to run almost instantly.
 
-
-
-
-
-
-### Youtube Resources
-
 - [Turty Wurty's tutorial playlist](https://www.youtube.com/playlist?list=PLaevjqy3XufZ5qFgfd-XnNgoiXynSZLZy):
-        getting started tutorial for fabric 1.21
+        Getting started tutorial for Fabric 1.21, I do recommend Kaupenjoe a bit more, but that's up to taste
 
 - Kaupenjoe's tutorial playlist:
 	<details>
   		<summary>versions</summary>
 		<ul>
-  			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ">1.20.X fabric</a></li>
-			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EMYzuBUTYjHnFeBrRFbesk">1.19.3 fabric</a></li>
-			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_">1.19 fabric</a></li>
+  			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EO43Dlf5JGh7Yk-kRAXUEJ">1.20.X Fabric</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EMYzuBUTYjHnFeBrRFbesk">1.19.3 Fabric</a></li>
+			<li><a href="https://www.youtube.com/playlist?list=PLKGarocXCE1EeLZggaXPJaARxnAbUD8Y_">1.19 Fabric</a></li>
 			<li>And for 1.18, KaupenJoe has multiple playlists on <a href="https://www.youtube.com/@ModdingByKaupenjoe/playlists">his channel</a></li>
 		</ul>
   
   	</details>
-	
 
-
-### Discord Servers
 
 - [Fabric Project, official server](https://discord.com/invite/v6v4pMv)
-     Official fabric server, usually active.
+     Official Fabric server, usually active.
+
+ - Anything else mentioned in the **MISCELLANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
 
 
-## GENERAL
 
-Resources for ALL modders and things that help for modding in general 
+### General
+
+After all of that here's some links that all of you could use (probably) no matter the version and modloader:
 
 - Vanilla code:
 	Just read the vanilla code, chances are what you want to create already exists in-game.
 
+
+Mixins are a complex topic that may require a lot of explanation. They're purpose, in a surface level explanation is to overwrite vanilla code. However in most cases events are more desirable since having multiple mixins in the same place may break while having multiple events in the same place from different mods should not cause problems.
 
   <li><details>
   			<summary>Mixins</summary>
