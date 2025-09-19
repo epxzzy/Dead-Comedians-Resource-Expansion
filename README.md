@@ -12,16 +12,22 @@ On a more serious note it basicly means
 So what do you need to start modding? Simple : a computer and java knowledge. Since you're here I consider you have a decent computer or a laptop. But What about Java?
 
 #### IMPORTANT NOTE
-From here on out I will be mentioning various links and what they are for. If however you have read this already and just want the links you can find a condensed list of them here (LINK REFERENCING SEPARATE PAGE TO BE ADDED LATER)
+	 From here on out I will be mentioning various links and what they are for. If however you have read this already and just 
+ 	want the links you can find a condensed list of them here (LINK REFERENCING SEPARATE PAGE TO BE ADDED LATER)
 
 
 
 ### Learning Java
 
-Java is a coding language. It is what is used for coding Minecraft Java edition and modding it. In order to start modding you will need an understanding of Object Oriented Programing (OOP) and the Java language itself. While this list is not dedicated to learning java I have made a list of SOME Java learning resources. However any way of learning the Java concepts mentioned above will do.
+ Java is a coding language. It is what is used for coding Minecraft Java edition and modding it. In order to start modding you will need an understanding of Object Oriented Programing (OOP) and the Java language itself. While this list is not dedicated to learning java I have made a list of SOME Java learning resources. However any way of learning the Java concepts mentioned above will do.
 
 #### IMPORTANT NOTE
-While it is easy to think that you can just skip
+	 While it is easy to think that you can just skip learning Java, as many have did. 
+	 More often than not you will find yourself in a lot of trouble, not knowing what is going on in front of you especially if you have 
+  	no prior coding experience. 
+	 A solid understanding of the language also allows for you to create more optimised code and be able to both evolve faster on 
+ 	your journey and get into more difficult topics with a lot more ease. 
+	 So do yourself a favour and don't cut corners, especially now, at the start!
 
 
   - [Codecademy](https://www.codecademy.com/catalog/language/java?g_network=g&g_productchannel=&g_adid=624951457630&g_locinterest=&g_keyword=codecademy%20java&g_acctid=243-039-7011&g_adtype=&g_keywordid=kwd-327295696446&g_ifcreative=&g_campaign=account&g_locphysical=9197713&g_adgroupid=128133970548&g_productid=&g_source={sourceid}&g_merchantid=&g_placement=&g_partition=&g_campaignid=1726903838&g_ifproduct=&utm_id=t_kwd-327295696446:ag_128133970548:cp_1726903838:n_g:d_c&utm_source=google&utm_medium=paid-search&utm_term=codecademy%20java&utm_campaign=INTL_Brand_Exact&utm_content=624951457630&g_adtype=search&g_acctid=243-039-7011&gad_source=1&gclid=CjwKCAjwqre1BhAqEiwA7g9Qhr4S7rnr6lNNym9Lu3hyXKpa1za-ZjNhoCIY6r0fIb4r39gV99_k4xoChZ8QAvD_BwE)
@@ -39,9 +45,37 @@ While it is easy to think that you can just skip
 
 
 
+## MODDING
+### Choosing a modloader
+
+ Modloaders are tools that help players install and manage mods. But for developers modloaders are an API or a framework which allow us to add content into the game. Choosing the appropriate modloader affects your modding experience, your target audience and of course the amount of downloads you will have if you publish your mod. So what are our contestants? **Fabric** and **Forge** . Pretty much, there are other ones, but nobody uses them anymore, and **Forge** also has the **Neoforge** Flavour but I'll explain that in a bit. For now the jist of it is this: 
+ 
+  **Fabric** is very light weight, which you think would make it better than **Forge**, but the reason **Forge** is not as light weight is because it is more powerfull, meaning it makes it more accessible for the developer to do more complex things, as opposed to **Fabric** where you can do those same things but it will be a lot more difficult. 
+  
+ There's also the afore mentioned target audience, **Fabric** usually has more vanilla+/ vanilla friendly mods, mainly consisting of tweaks, QoL mods or optimization mods. **Forge** on the other side , due to its more powerful nature usually hosts more content focused mods.
+
+ Now there's also that third option I mentioned: **Neforge**. **Neoforge** is a fork of the **Forge** mod loader maintained by a separate group, created after some controversies relating to the Forge team, I will not get into detail as it is beyond the scope of this website. Where **Neoforge** strives is performance, while being as powerful as **Forge**, it is more optimised and runs better. There is one downside to it. Almost nobody uses **Neoforge** in versions prior to Minecraft 1.21. It is usually replaced by **Forge**, this also applies the other way around where **Forge** gets replaced by **Neo**(short for Neoforge ofc) after 1.21.
+
+This swiftly brings us to the problem of choosing a Minecraft version to mod. While technically you can mod any version you want , there's more optimal versions. These are often refered to as modding versions. And usually encompass: 1.16, 1.18.2, 1.20.1 and 1.21.1, with most people resorting to either of the last 2. Now you may ask "Why not always update with the newest version?". The answer is, it's more trouble than it's worth, unless ALL developers update to newer versions, most people don't have a reason to move to newer versions. Every update the codebase changes, no matter the modloader, making especially big mods hard to bring up to date, especially with Minecraft's new drop-based update system which makes updates come at a much higher rate. So most people just choose one of these versions, and only update when a new "modding version appears", while players rely on mods that backport features from newer versions to the current modding versions.
+
+#### TL;DR:
+Modloaders:
+- **Fabric**: light weight, great for vanilla friendly mods, optimization mods, or just feature tweaks
+- **Forge**: not as optimised, a lot more powerfull, great for content focused mods used up to 1.21 generally
+- **Neoforge**: as powerfull as **Forge**, more optimised, but used generally only from 1.21.1 and up
+
+Versions:
+- 1.16.x: Not gonna lie there is no advantage for choosing this
+- 1.18.2: Same here
+- 1.20.1: A lot of **Forge** mods are here, same for **Fabric**
+- 1.21.1: A lot more recent, but generally dominated by **Neoforge** and very few **Fabric**
 
 
+#### IMPORTANT NOTE
 
+	 These are not hard rules, there's other modloader's like Quilt, but they are not used as much. Same applies for versions,
+ 	you can mod whatever version you wish, I just present you the ones that are used more often, aka that YOU and OTHERS will download 
+    more often, and usually have more documentation as a result of that!
 
 
 
