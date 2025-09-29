@@ -113,6 +113,9 @@ Since the Forge modloader has existed for longer, there's more resources you can
 - [Forge Community wiki](https://forge.gemwire.uk/wiki/Main_Page)
   Documentation mantained by the community, meaning anyone can contribute to it, a bit more extensive than the official doc, but only for versions 1.16, 1.17, 1.18 and 1.19.
 
+- [Official Forge Forums](https://forums.minecraftforge.net/)
+  While I doubt you would get any answers for your questions within a reasonable time frame, at least not faster than you would get on any discord server, for example. You might however find solutions to your problems since someone else might have had said problem as well!
+
 - [moddingtutorials.org](https://moddingtutorials.org/)
   While only being used for obscure versions, 1.16.5, 1.18.2, 1.19.2, and 1.19.3. I'm placing this here for academic honesty and who knows maybe someone may need it, so its here.
 
