@@ -12,8 +12,9 @@ On a more serious note it basicly means
 So what do you need to start modding? Simple : a computer and java knowledge. Since you're here I consider you have a decent computer or a laptop. But What about Java?
 
 #### IMPORTANT NOTE
-	 From here on out I will be mentioning various links and what they are for. If however you have read this already and just 
- 	want the links you can find a condensed list of them right below
+	 From here on out I will be mentioning various links and what they are for. 
+	 If however you have read this already and just want the links you can find 
+	 a condensed list of them right below
 	
  <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Learning_java">Compiled Resource list</a>
 
@@ -25,11 +26,11 @@ So what do you need to start modding? Simple : a computer and java knowledge. Si
 #### IMPORTANT NOTE
 	 While it is easy to think that you can just skip learning Java, as many have 
 	 done. 
-	 More often than not you will find yourself in a lot of trouble, not knowing what
-	 is going on in front of you especially if you have no prior coding experience. 
-	 A solid understanding of the language also allows for you to create more 
-	 optimised code and be able to both evolve faster on  	your journey and get 
-	 into more difficult topics with a lot more ease. 
+	 More often than not you will find yourself in a lot of trouble, not knowing
+	 what's going on in front of you especially if you have no prior coding 
+	 experience. A solid understanding of the language also allows for you to 
+	 create more optimised code and be able to both evolve faster on your 
+	 journey and get into more difficult topics with a lot more ease. 
 	 So do yourself a favour and don't cut corners, especially now, at the start!
 
 
@@ -84,10 +85,12 @@ Versions:
 
 #### IMPORTANT NOTE
 
- 	No matter the modloader you are using make sure you look at vanilla code, 
+	No matter the modloader you are using make sure you look at vanilla code, 
 	most of the time you can find something similar to what 
-  	you need in game. You can also look at other people's code, while obviously 
-   		A. understanding what the code does and how it works, not just copy pasting,
+  	you need in game. You can also look at other people's code, while 
+	obviously 
+   		A. understanding what the code does and how it works, 
+		not just copy pasting,
 	 and 
   		B. respecting the license of the repository
 
@@ -207,7 +210,7 @@ Mixins are a complex topic that may require a lot of explanation. They're purpos
 			 		Kaupenjoe's tutorial on mixins, while on an older version it does help with understanding basics
 			</ul>
   
-    </details></li>
+  </details></li>
 
 - [Linkie](https://linkie.shedaniel.dev/mappings?namespace=mojang_srg&version=1.20.1&search=addAdditionalSaveData&translateMode=ns&translateAs=yarn):
   	modloader mappings translator.
