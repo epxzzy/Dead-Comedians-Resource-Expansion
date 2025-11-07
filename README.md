@@ -12,10 +12,11 @@ On a more serious note it basicly means
 So what do you need to start modding? Simple : a computer and java knowledge. Since you're here I consider you have a decent computer or a laptop. But What about Java?
 
 #### IMPORTANT NOTE
-	 From here on out I will be mentioning various links and what they are for. If however you have read this already and just 
- 	want the links you can find a condensed list of them right below
+	 From here on out I will be mentioning various links and what they are for. 
+	 If however you have read this already and just want the links you can find 
+	 a condensed list of them right below
 	
- <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Learning_java">Compiled Resource list</a>
+ <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Compiled_Resource_List">Compiled Resource list</a>
 
 
 ### Learning Java
