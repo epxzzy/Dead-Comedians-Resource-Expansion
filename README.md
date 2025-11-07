@@ -14,6 +14,7 @@ So what do you need to start modding? Simple : a computer and java knowledge. Si
 #### IMPORTANT NOTE
 	 From here on out I will be mentioning various links and what they are for. If however you have read this already and just 
  	want the links you can find a condensed list of them right below
+	
  <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Learning_java">Compiled Resource list</a>
 
 
@@ -50,19 +51,19 @@ So what do you need to start modding? Simple : a computer and java knowledge. Si
 
  Modloaders are tools that help players install and manage mods. But for developers modloaders are an API or a framework which allow us to add content into the game. Choosing the appropriate modloader affects your modding experience, your target audience and of course the amount of downloads you will have if you publish your mod. So what are our contestants? **Fabric** and **Forge** . Pretty much, there are other ones, but nobody uses them anymore, and **Forge** also has the **Neoforge** Flavour but I'll explain that in a bit. For now the jist of it is this: 
  
-  **Fabric** is very light weight, which you think would make it better than **Forge**, but the reason **Forge** is not as light weight is because it is more powerfull, meaning it makes it more accessible for the developer to do more complex things, as opposed to **Fabric** where you can do those same things but it will be a lot more difficult. 
+  **Fabric** is very lightweight, which you think would make it better than **Forge**, but the reason **Forge** is not as lightweight is because it is more powerful, meaning it makes it more accessible for the developer to do more complex things, as opposed to **Fabric** where you can do those same things but it will be a lot more difficult. 
   
- There's also the afore mentioned target audience, **Fabric** usually has more vanilla+/ vanilla friendly mods, mainly consisting of tweaks, QoL mods or optimization mods. **Forge** on the other side , due to its more powerful nature usually hosts more content focused mods.
+ There's also the aforementioned target audience, **Fabric** usually has more vanilla+ / vanilla friendly mods, mainly consisting of tweaks, QoL mods or optimization mods. **Forge** on the other side, due to its more powerful nature usually hosts more content focused mods.
 
  Now there's also that third option I mentioned: **Neforge**. **Neoforge** is a fork of the **Forge** mod loader maintained by a separate group, created after some controversies relating to the Forge team, I will not get into detail as it is beyond the scope of this website. Where **Neoforge** strives is performance, while being as powerful as **Forge**, it is more optimised and runs better. There is one downside to it. Almost nobody uses **Neoforge** in versions prior to Minecraft 1.21. It is usually replaced by **Forge**, this also applies the other way around where **Forge** gets replaced by **Neo**(short for Neoforge ofc) after 1.21.
 
-This swiftly brings us to the problem of choosing a Minecraft version to mod. While technically you can mod any version you want , there's more optimal versions. These are often refered to as modding versions. And usually encompass: 1.16, 1.18.2, 1.20.1 and 1.21.1, with most people resorting to either of the last 2. Now you may ask "Why not always update with the newest version?". The answer is, it's more trouble than it's worth, unless ALL developers update to newer versions, most people don't have a reason to move to newer versions. Every update the codebase changes, no matter the modloader, making especially big mods hard to bring up to date, especially with Minecraft's new drop-based update system which makes updates come at a much higher rate. So most people just choose one of these versions, and only update when a new "modding version appears", while players rely on mods that backport features from newer versions to the current modding versions.
+This swiftly brings us to the problem of choosing a Minecraft version to mod. While technically you can mod any version you want, there's more optimal versions. These are often refered to as modding versions, and usually encompass: 1.16, 1.18.2, 1.20.1 and 1.21.1, with most people resorting to either of the last 2. Now you may ask "Why not always update with the newest version?". The answer is, it's more trouble than it's worth, unless ALL developers update to newer versions, most people don't have a reason to move to newer versions. Every update the codebase changes, no matter the modloader, making especially big mods hard to bring up to date, especially with Minecraft's new drop-based update system which makes updates come at a much higher rate. So most people just choose one of these versions, and only update when a new "modding version appears", while players rely on mods that backport features from newer versions to the current modding versions.
 
 #### TL;DR:
 Modloaders:
-- **Fabric**: light weight, great for vanilla friendly mods, optimization mods, or just feature tweaks
-- **Forge**: not as optimised, a lot more powerfull, great for content focused mods used up to 1.21 generally
-- **Neoforge**: as powerfull as **Forge**, more optimised, but used generally only from 1.21.1 and up
+- **Fabric**: lightweight, great for vanilla friendly mods, optimization mods, or just feature tweaks
+- **Forge**: not as optimised, a lot more powerful, great for content focused mods used up to 1.21 generally
+- **Neoforge**: as powerful as **Forge**, more optimised, but used generally only from 1.21.1 and up
 
 Versions:
 - 1.16.x: Not gonna lie there is no advantage for choosing this
@@ -87,13 +88,13 @@ Versions:
 
 
 ### Neoforge
- Great so you chose Neoforge as your modloader of choice. Your main friend's will be:
+ Great, so you chose Neoforge as your modloader of choice. Your main friends will be:
 
 - [The NeoForge Wiki](https://docs.neoforged.net/docs/gettingstarted/)
   	The official Neoforge Documentation. This will take you through all the steps to starting modding. Even generating the project. And a lot more, however it only covers SOME topics. Also covers pretty much every version of Minecraft Neo works on.
   
 - [McJTY's tutorials, NeoForge 1.20.4](https://www.mcjty.eu/docs/1.20.4_neo/)
-  While not as in depth, may have some content the NeoForge Wiki, for example some pretty competent explanations of render code at a begginer level. Only for 1.20.4 however. (Concepts usually transfer however so, while code can't just be copy pasting , you should still learn a thing or two from it)
+  While not as in depth, may have some content the NeoForge Wiki, for example some pretty competent explanations of render code at a begginer level. Only for 1.20.4 however. (Concepts usually transfer however so, while code can't just be copy pasting, you should still learn a thing or two from it)
 
  - [Kaupenjoe's Tutorials, NeoForge 1.21.X](https://www.youtube.com/watch?v=yG-oJPR_40w&list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF)
    You will notice KaupenJoe is a recurring reference here, that is for a good reason: He is one of the best and only Minecraft modding edutainers on Youtube. This playlist covers multiple versions starting with 1.21.1 and going up.
@@ -101,14 +102,14 @@ Versions:
  - [Official NeoForge Discord](https://discord.gg/neoforged)
 	Not much to say, if you need help understanding anything, the folks over there should be able to help. I find this server particularly helpful myself.
 
- - Anything else mentioned in the **MISCELLANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
+ - Anything else mentioned in the **MISCELLANEOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
    
 
 ### Forge
 Since the Forge modloader has existed for longer, there's more resources you can go for:
 
 - [Forge wiki](https://docs.minecraftforge.net/en/1.21.x/)
-  Official documentation for Forge, includes versions : 1.19.x, 1.20.1, 1.20.x , 1.21.x and even a bit about ForgeGradle for the advanced and interested!
+  Official documentation for Forge, includes versions : 1.19.x, 1.20.1, 1.20.x, 1.21.x and even a bit about ForgeGradle for the advanced and interested!
   
 - [Forge Community wiki](https://forge.gemwire.uk/wiki/Main_Page)
   Documentation mantained by the community, meaning anyone can contribute to it, a bit more extensive than the official doc, but only for versions 1.16, 1.17, 1.18 and 1.19.
@@ -136,13 +137,13 @@ Since the Forge modloader has existed for longer, there's more resources you can
   
   	</details>
 
-  - [Cy4's tutorial playlist (1.16) ](https://www.youtube.com/watch?v=benUZaQU-6Y&list=PLlbkaeFHn13HQlW5Pb7Gf-xLJoAlfVbNU)
+- [Cy4's tutorial playlist (1.16) ](https://www.youtube.com/watch?v=benUZaQU-6Y&list=PLlbkaeFHn13HQlW5Pb7Gf-xLJoAlfVbNU)
 	In my honest opinion he uses pretty bad coding conventions(or at least did when I last checked) and uses Eclipse as an IDE (Intellij being what most use as it is best for this), but I'm putting this here for academic honesty.
 
-  - [Cy4's tutorial playlist (1.18) ](https://www.youtube.com/watch?v=xRXWa5HRAxU&list=PLlbkaeFHn13Hw_Y-Rs2TgBYlpS2RQ5uEA)
+- [Cy4's tutorial playlist (1.18) ](https://www.youtube.com/watch?v=xRXWa5HRAxU&list=PLlbkaeFHn13Hw_Y-Rs2TgBYlpS2RQ5uEA)
 	Same as above
 
- - Anything else mentioned in the **MISCELLANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
+ - Anything else mentioned in the **MISCELLEANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
 
 
 ### Fabric
@@ -173,7 +174,7 @@ If you choose Fabric then you should look at:
 - [Fabric Project, official server](https://discord.com/invite/v6v4pMv)
      Official Fabric server, usually active.
 
- - Anything else mentioned in the **MISCELLANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
+ - Anything else mentioned in the **MISCELLEANOUS** category here or in the [Compiled Resource List](https://github.com/epxzzy/Dead-Comedians-Resource-Expansion/blob/main/Compiled_Resource_List.md)
 
 
 
@@ -216,6 +217,7 @@ Mixins are a complex topic that may require a lot of explanation. They're purpos
 	- Worldgen
 	- And many, many more
 
+ - Most modloaders also have their own datagenerators. Kaupenjoe usually covers datagen for his tutorials and the modloader's respective wikis should cover also cover them.
 
 ### Discord Server
 - [Kaupenjoe's Server](https://discord.gg/kaupenjoe)
@@ -230,6 +232,6 @@ Mixins are a complex topic that may require a lot of explanation. They're purpos
 
 
 # *Credit to doctor4t's server
-## Credit to epxzzy for help with repo, Diemant for 2/4 mixin tutorials and providing the doctor4t recomandations
+## Credit to epxzzy for help with repo, Diemant for 2/4 mixin tutorials and providing the doctor4t recommandations
 
 
