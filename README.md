@@ -12,11 +12,10 @@ On a more serious note it basicly means
 So what do you need to start modding? Simple : a computer and java knowledge. Since you're here I consider you have a decent computer or a laptop. But What about Java?
 
 #### IMPORTANT NOTE
-	 From here on out I will be mentioning various links and what they are for. 
-	 If however you have read this already and just want the links you can find 
-	 a condensed list of them right below
+	 From here on out I will be mentioning various links and what they are for. If however you have read this already and just 
+ 	want the links you can find a condensed list of them right below
 	
- <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Compiled_Resource_List">Compiled Resource list</a>
+ <a href="https://epxzzy.github.io/Dead-Comedians-Resource-Expansion/Learning_java">Compiled Resource list</a>
 
 
 ### Learning Java
@@ -24,11 +23,13 @@ So what do you need to start modding? Simple : a computer and java knowledge. Si
  Java is a coding language. It is what is used for coding Minecraft Java edition and modding it. In order to start modding you will need an understanding of Object Oriented Programing (OOP) and the Java language itself. While this list is not dedicated to learning java I have made a list of SOME Java learning resources. However any way of learning the Java concepts mentioned above will do.
 
 #### IMPORTANT NOTE
-	 While it is easy to think that you can just skip learning Java, as many have did. 
-	 More often than not you will find yourself in a lot of trouble, not knowing what is going on in front of you especially if you have
-  	no prior coding experience. 
-	 A solid understanding of the language also allows for you to create more optimised code and be able to both evolve faster on 
- 	your journey and get into more difficult topics with a lot more ease. 
+	 While it is easy to think that you can just skip learning Java, as many have 
+	 done. 
+	 More often than not you will find yourself in a lot of trouble, not knowing what
+	 is going on in front of you especially if you have no prior coding experience. 
+	 A solid understanding of the language also allows for you to create more 
+	 optimised code and be able to both evolve faster on  	your journey and get 
+	 into more difficult topics with a lot more ease. 
 	 So do yourself a favour and don't cut corners, especially now, at the start!
 
 
@@ -75,13 +76,16 @@ Versions:
 
 #### IMPORTANT NOTE
 
-	 These are not hard rules, there's other modloader's like Quilt, but they are not used as much. Same applies for versions,
- 	you can mod whatever version you wish, I just present you the ones that are used more often, aka that YOU and OTHERS will download 
-    more often, and usually have more documentation as a result of that!
+	 These are not hard rules, there's other modloader's like Quilt, but they are 
+	 not used as much. Same applies for versions, you can mod whatever version you
+	 wish, I just present you the ones that are used more often, aka that YOU and 
+	 OTHERS will download most often, and usually have more documentation as a 
+	 result of that!
 
 #### IMPORTANT NOTE
 
- 	No matter the modloader you are using make sure you look at vanilla code, most of the time you can find something similar to what 
+ 	No matter the modloader you are using make sure you look at vanilla code, 
+	most of the time you can find something similar to what 
   	you need in game. You can also look at other people's code, while obviously 
    		A. understanding what the code does and how it works, not just copy pasting,
 	 and 
