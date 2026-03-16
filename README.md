@@ -190,14 +190,14 @@ If you choose Fabric then you should look at:
 
 After all of that here's some links that all of you could use (probably) no matter the version and modloader:
 
-- Vanilla code:
-	Just read the vanilla code, chances are what you want to create already exists in-game.
+- Vanilla code: Just read the vanilla code, chances are what you want to create already exists in-game.
+- [Linkie](https://linkie.shedaniel.dev/mappings?namespace=mojang_srg&version=1.20.1&search=addAdditionalSaveData&translateMode=ns&translateAs=yarn):
+  	modloader mappings translator.
 
-
-Mixins are a complex topic that may require a lot of explanation. They're purpose, in a surface level explanation is to overwrite vanilla code. However in most cases events are more desirable since having multiple mixins in the same place may break while having multiple events in the same place from different mods should not cause problems.
-
-  <li><details>
-  			<summary>Mixins</summary>
+   <li><details>
+  			<summary>Mixins:  </summary>  
+	 
+	 Mixins are a complex topic that may require a lot of explanation. They're purpose, in a surface level explanation is to overwrite vanilla code. However in most cases events are more desirable since having multiple mixins in the same place may break while having multiple events in the same place from different mods should not cause problems.  
 			<ul>
   				<li><a href="https://github.com/SpongePowered/Mixin/wiki">Official mixins</a></li>
 					Official mixin wiki, explains mixins from the ground up
@@ -209,11 +209,7 @@ Mixins are a complex topic that may require a lot of explanation. They're purpos
 				<li><a href="https://www.youtube.com/watch?v=U7j4bl_UAII">Kaupenjoe's Mixin Tutorial</a></li>
 			 		Kaupenjoe's tutorial on mixins, while on an older version it does help with understanding basics
 			</ul>
-  
-  </details></li>
-
-- [Linkie](https://linkie.shedaniel.dev/mappings?namespace=mojang_srg&version=1.20.1&search=addAdditionalSaveData&translateMode=ns&translateAs=yarn):
-  	modloader mappings translator.
+</details></li>
   
 - [Mc Assets](https://mcasset.cloud/latest/)
     Obtain assets from the game
